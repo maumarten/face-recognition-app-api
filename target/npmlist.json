@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"face-recognition-app-api","dependencies":{"bcrypt-nodejs":{"version":"0.0.3"},"cors":{"version":"2.8.5"},"express":{"version":"4.18.2"},"knex":{"version":"2.3.0"},"pg":{"version":"8.8.0"}}}
